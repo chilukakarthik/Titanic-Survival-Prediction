@@ -23,10 +23,5 @@ Kaggle notebook: [paste your Kaggle notebook link]
 
 **Kaggle public leaderboard score (ANN submission): 0.78708**
 
-The leaderboard score is lower than my hold-out accuracy because it is measured on Kaggle's hidden test set.
-
 ## Final Submission
-I submitted the ANN because [your actual reason]. Its hold-out lead over the tree models was small (about 3 of 179 samples), so I treat the models as close in performance.
-
-## Notes
-The notebook was built on Kaggle, so data paths point to `/kaggle/input/...`; change them to `data/train.csv` and `data/test.csv` to run locally. The ANN is unseeded, so exact numbers vary between runs.
+I submitted the ANN model.
